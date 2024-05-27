@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #21222A;
+    width: 550px;
+    height: 91px;
+    padding: 20px;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    color: #61DAFB;
+    align-items: center;
+    font-family: Inter;
+    font-size: 22.25px;
+    font-weight: 700;
+    line-height: 26.93px;
+    letter-spacing: -0.05em;
+    text-align: left;
+}
+
+.header h3 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    color: #DEEBF8;
+}
