@@ -1,0 +1,8 @@
+.containere {
+    width: 100vw;
+    height: 100vh;
+    gap: 0px;
+    display: flex;
+    justify-content: center; 
+    padding: 5px;
+}
