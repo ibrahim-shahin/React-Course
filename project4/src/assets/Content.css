@@ -1,0 +1,51 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 85vh;
+}
+
+.inputs {
+    display: flex;
+    width: 70%;
+    justify-content: space-evenly;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.input label {
+    margin-bottom: 5px;
+}
+
+.input input {
+    height: 30px;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 0.82px 1.64px 0px #0000000D;
+    border-radius: 5px;
+}
+
+.button {
+    width: 46%;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 20px;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border: 1px solid #D1D5DB;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.meme {
+    margin-top: 20px;
+    height: 50%;
+}

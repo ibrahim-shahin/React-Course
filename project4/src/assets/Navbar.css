@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    stroke: black;
+    height: 100px;
+    padding: 20px 100px;
+    color: #FFFFFF;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    font-family: Karla;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.25px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+
+.troll-img {
+    height: 50px;
+    margin-right: 5px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
