@@ -45,6 +45,10 @@
     color: #FFFFFF;
 }
 
+.button:hover {
+    cursor: pointer;
+}
+
 .meme {
     margin-top: 20px;
     height: 50%;
